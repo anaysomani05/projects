@@ -1,3 +1,3 @@
 # projects
 
-### This repository contains all the projects undertaken by me till date. 
+## This repository contains all the projects undertaken by me for learning new concepts. 
